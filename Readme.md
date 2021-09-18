@@ -6,6 +6,6 @@ now it looks like this ...
 
 <center>
 
-  ![alt text](docs/img/main.png)
+![alt text](docs/img/main.png)
 
 </center>
